@@ -41,7 +41,7 @@ stashed = "🟤 "
 modified = "🟠 "
 staged = "🟢 "
 renamed = "🟠 "
-deleted = "🔴i "
+deleted = "🔴 "
 # format = "$all_status$ahead_behind"
 format = "$all_status"
 
